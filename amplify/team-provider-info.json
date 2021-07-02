@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-netspoti-dev-230055-authRole",
+      "UnauthRoleArn": "arn:aws:iam::443077545080:role/amplify-netspoti-dev-230055-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::443077545080:role/amplify-netspoti-dev-230055-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-netspoti-dev-230055-deployment",
+      "UnauthRoleName": "amplify-netspoti-dev-230055-unauthRole",
+      "StackName": "amplify-netspoti-dev-230055",
+      "StackId": "arn:aws:cloudformation:us-east-1:443077545080:stack/amplify-netspoti-dev-230055/c6acf690-d448-11eb-902f-0ab0f473fdd5",
+      "AmplifyAppId": "d2arp6jjsndqob"
+    },
+    "categories": {
+      "auth": {
+        "netspotif9042c66": {}
+      }
+    }
+  }
+}
